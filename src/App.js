@@ -8,8 +8,8 @@ import {
   Typography,
 } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
-import HomePage from './page/HomePage';
-import VideosPage from './page/VideosPage';
+import HomePage from './pages/HomePage';
+import VideosPage from './pages/VideosPage';
 
 function App() {
   const classes = useStyles();
@@ -20,7 +20,7 @@ function App() {
         <CssBaseline />
         <AppBar position='relative' className={classes.appBar}>
           <Toolbar>
-            <Typography variant='h6' color='inherit' noWrap>
+            <Typography variant='h5' color='inherit' noWrap>
               <Button href='/'>Unspoiler</Button>
             </Typography>
             <span>Showing Game 1s only!</span>

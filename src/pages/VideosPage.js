@@ -19,7 +19,10 @@ function Home() {
           q: `${query} Game 1`,
         },
       });
-      setSearchResults(items);
+      const filteredItems = items.filter((item) => {
+        return item.snippet.title.toLowerCase().includes('game 1');
+      });
+      setSearchResults(filteredItems);
     })();
   }, [params]);
 
