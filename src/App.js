@@ -1,25 +1,44 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import {
+  AppBar,
+  Button,
+  CssBaseline,
+  Toolbar,
+  Typography,
+} from '@material-ui/core';
+import { makeStyles } from '@material-ui/core/styles';
+import HomePage from './page/HomePage';
+import VideosPage from './page/VideosPage';
 
 function App() {
+  const classes = useStyles();
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div>
+        <CssBaseline />
+        <AppBar position='relative' className={classes.appBar}>
+          <Toolbar>
+            <Typography variant='h6' color='inherit' noWrap>
+              <Button href='/'>Unspoiler</Button>
+            </Typography>
+            <span>Showing Game 1s only!</span>
+          </Toolbar>
+        </AppBar>
+        <Switch>
+          <Route path='/' exact component={HomePage} />
+          <Route path='/:channelId/:query' component={VideosPage} />
+        </Switch>
+      </div>
+    </Router>
   );
 }
+
+const useStyles = makeStyles((theme) => ({
+  appBar: {
+    marginBottom: theme.spacing(4),
+  },
+}));
 
 export default App;

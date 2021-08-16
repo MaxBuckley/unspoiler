@@ -1,0 +1,217 @@
+[
+  {
+      "kind": "youtube#playlist",
+      "etag": "dgbOyGAdKbhkAAgQCmL90ea4jDA",
+      "id": "PLcvpEVobSi9fL-SuNie-918oM9xTMr3Va",
+      "snippet": {
+          "publishedAt": "2021-06-11T20:33:43Z",
+          "channelId": "UCzAypSoOFKCZUts3ULtVT_g",
+          "title": "2021 LEC Summer Split VODs",
+          "description": "",
+          "thumbnails": {
+              "default": {
+                  "url": "https://i.ytimg.com/vi/9SuRWsf3_Qk/default.jpg",
+                  "width": 120,
+                  "height": 90
+              },
+              "medium": {
+                  "url": "https://i.ytimg.com/vi/9SuRWsf3_Qk/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+              },
+              "high": {
+                  "url": "https://i.ytimg.com/vi/9SuRWsf3_Qk/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+              },
+              "standard": {
+                  "url": "https://i.ytimg.com/vi/9SuRWsf3_Qk/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+              },
+              "maxres": {
+                  "url": "https://i.ytimg.com/vi/9SuRWsf3_Qk/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+              }
+          },
+          "channelTitle": "LoL Esports VODs and Highlights",
+          "localized": {
+              "title": "2021 LEC Summer Split VODs",
+              "description": ""
+          }
+      }
+  },
+  {
+      "kind": "youtube#playlist",
+      "etag": "bJ5Ez_-O8ZPCU6-abWSsonPML4o",
+      "id": "PLcvpEVobSi9cD_lyrALDbZl7yoMl_0Day",
+      "snippet": {
+          "publishedAt": "2021-06-05T00:39:52Z",
+          "channelId": "UCzAypSoOFKCZUts3ULtVT_g",
+          "title": "2021 LCS Summer Split VODs",
+          "description": "",
+          "thumbnails": {
+              "default": {
+                  "url": "https://i.ytimg.com/vi/iX4UTWlji_o/default.jpg",
+                  "width": 120,
+                  "height": 90
+              },
+              "medium": {
+                  "url": "https://i.ytimg.com/vi/iX4UTWlji_o/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+              },
+              "high": {
+                  "url": "https://i.ytimg.com/vi/iX4UTWlji_o/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+              },
+              "standard": {
+                  "url": "https://i.ytimg.com/vi/iX4UTWlji_o/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+              },
+              "maxres": {
+                  "url": "https://i.ytimg.com/vi/iX4UTWlji_o/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+              }
+          },
+          "channelTitle": "LoL Esports VODs and Highlights",
+          "localized": {
+              "title": "2021 LCS Summer Split VODs",
+              "description": ""
+          }
+      }
+  },
+  {
+      "kind": "youtube#playlist",
+      "etag": "hNSF7a2-hZW5o9OFzeTeDsO4R_s",
+      "id": "PLcvpEVobSi9ffXyj6hL4wlZTo6X2nBNkG",
+      "snippet": {
+          "publishedAt": "2021-06-03T02:28:51Z",
+          "channelId": "UCzAypSoOFKCZUts3ULtVT_g",
+          "title": "2021 LCS Academy Summer Split VODs",
+          "description": "",
+          "thumbnails": {
+              "default": {
+                  "url": "https://i.ytimg.com/vi/ePWPSMxndx8/default.jpg",
+                  "width": 120,
+                  "height": 90
+              },
+              "medium": {
+                  "url": "https://i.ytimg.com/vi/ePWPSMxndx8/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+              },
+              "high": {
+                  "url": "https://i.ytimg.com/vi/ePWPSMxndx8/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+              },
+              "standard": {
+                  "url": "https://i.ytimg.com/vi/ePWPSMxndx8/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+              },
+              "maxres": {
+                  "url": "https://i.ytimg.com/vi/ePWPSMxndx8/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+              }
+          },
+          "channelTitle": "LoL Esports VODs and Highlights",
+          "localized": {
+              "title": "2021 LCS Academy Summer Split VODs",
+              "description": ""
+          }
+      }
+  },
+  {
+      "kind": "youtube#playlist",
+      "etag": "ue-vW7_Gt9hblGbxAsaDPGYEMY0",
+      "id": "PLcvpEVobSi9fbxZJa8kLVVQvSxA9trGsf",
+      "snippet": {
+          "publishedAt": "2021-05-06T19:37:13Z",
+          "channelId": "UCzAypSoOFKCZUts3ULtVT_g",
+          "title": "2021 Mid-Season Invitational VODs",
+          "description": "",
+          "thumbnails": {
+              "default": {
+                  "url": "https://i.ytimg.com/vi/lMDZvLpEf7c/default.jpg",
+                  "width": 120,
+                  "height": 90
+              },
+              "medium": {
+                  "url": "https://i.ytimg.com/vi/lMDZvLpEf7c/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+              },
+              "high": {
+                  "url": "https://i.ytimg.com/vi/lMDZvLpEf7c/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+              },
+              "standard": {
+                  "url": "https://i.ytimg.com/vi/lMDZvLpEf7c/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+              },
+              "maxres": {
+                  "url": "https://i.ytimg.com/vi/lMDZvLpEf7c/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+              }
+          },
+          "channelTitle": "LoL Esports VODs and Highlights",
+          "localized": {
+              "title": "2021 Mid-Season Invitational VODs",
+              "description": ""
+          }
+      }
+  },
+  {
+      "kind": "youtube#playlist",
+      "etag": "b-HLP6JmB9Z_CSt5MCWH05sD2SU",
+      "id": "PLcvpEVobSi9d7IzjwVZbgupLhVuA1OGbY",
+      "snippet": {
+          "publishedAt": "2021-05-02T03:06:10Z",
+          "channelId": "UCzAypSoOFKCZUts3ULtVT_g",
+          "title": "2021 NA College LoL Championship VODs",
+          "description": "",
+          "thumbnails": {
+              "default": {
+                  "url": "https://i.ytimg.com/vi/IFCoIEWQMxU/default.jpg",
+                  "width": 120,
+                  "height": 90
+              },
+              "medium": {
+                  "url": "https://i.ytimg.com/vi/IFCoIEWQMxU/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+              },
+              "high": {
+                  "url": "https://i.ytimg.com/vi/IFCoIEWQMxU/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+              },
+              "standard": {
+                  "url": "https://i.ytimg.com/vi/IFCoIEWQMxU/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+              },
+              "maxres": {
+                  "url": "https://i.ytimg.com/vi/IFCoIEWQMxU/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+              }
+          },
+          "channelTitle": "LoL Esports VODs and Highlights",
+          "localized": {
+              "title": "2021 NA College LoL Championship VODs",
+              "description": ""
+          }
+      }
+  }
+]
